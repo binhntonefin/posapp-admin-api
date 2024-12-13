@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Coding\lazy\lazy.pos\api\LazyPos.Api\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-12-09T07:15:28.8489941Z||;True|2024-12-09T08:19:10.9536021+07:00||;True|2024-12-08T19:06:43.9519902+07:00||;True|2024-12-08T12:23:23.5697844+07:00||;True|2024-12-08T09:25:52.3593597+07:00||;True|2024-12-08T09:10:58.6708068+07:00||;True|2024-12-07T21:38:28.4528307+07:00||;True|2024-12-06T13:00:09.9486537+07:00||;True|2024-12-05T21:08:28.6935315+07:00||;True|2024-12-02T16:55:37.2220902+07:00||;True|2024-12-01T23:29:38.1123810+07:00||;True|2024-11-26T08:56:23.9997750+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
